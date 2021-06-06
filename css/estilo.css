@@ -1,0 +1,27 @@
+#home {
+	background: #FFFFFF;
+	color: white;
+
+}
+
+
+#carousel {
+	background: #FFFFFF;
+	color: black;
+}
+
+#finalsite {
+	background: #3232CD;
+	color: white;
+}
+
+footer {
+	background: #3232CD;
+	padding: 50px 25px 0px 10px;
+	position: relative;
+}
+
+
+ul li {
+	color: #ffff;
+}
